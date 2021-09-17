@@ -1,3 +1,3 @@
 ### 💻 About me 💻
 
- &nbsp; Constantly learning new technologies
+ 🧭 &nbsp; Constantly learning new technologies
