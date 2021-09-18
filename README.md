@@ -42,5 +42,5 @@
 </p>
 
 ## 💻 Contact Info 💻
-📧 &nbsp; Email me at osaronaragar15@gmail.com.
+📧 &nbsp; Email me at osaronaragar15@gmail.com.\
 🔗 &nbsp; DM me at https://www.linkedin.com/in/oscar-araya-g/.
