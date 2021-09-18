@@ -14,4 +14,4 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
-![Prolog](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=prolog&logoColor=white)&nbsp;
+![Prolog](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=racket&logoColor=white)&nbsp;
