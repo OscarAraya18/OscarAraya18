@@ -6,6 +6,6 @@
 
 ## 💻 Skills 💻
 
-### Programming Languages
-#### Scripting Languages
+### Programming Languages:
+#### 1. Scripting Languages:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
