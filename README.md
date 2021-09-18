@@ -32,3 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-05122A?&style=flat&logo=git&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-05122A?&style=flat&logo=jenkins&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-05122A?&style=flat&logo=jira&logoColor=white)&nbsp;
+
+### Industry Knowledge:
+![Agile Methodologies](https://img.shields.io/badge/Agile Methodologies-05122A?&style=flat&logo=agile&logoColor=white)&nbsp;
