@@ -24,3 +24,5 @@
 
 ### Database Related:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?&style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?&style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?&style=flat&logo=mongodb&logoColor=white)&nbsp;
