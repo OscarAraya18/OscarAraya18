@@ -17,5 +17,7 @@
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket&logoColor=white)&nbsp;
 
 ### Frameworks:
-![NET](https://img.shields.io/badge/-NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular%20-05122A?&style=flat&logo=angular&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react%20-05122A?&style=flat&logo=react&logoColor=white)&nbsp;
+
 
