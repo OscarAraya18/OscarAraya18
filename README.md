@@ -33,5 +33,5 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-05122A?&style=flat&logo=jenkins&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-05122A?&style=flat&logo=jira&logoColor=white)&nbsp;
 
-### Industry Knowledge:
-![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-05122A?&style=flat&logo=agile&logoColor=white)&nbsp;
+### Hardware Related:
+![Verilog](https://img.shields.io/badge/Verilog-05122A?&style=flat&logo=verilog&logoColor=white)&nbsp;
