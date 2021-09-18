@@ -40,3 +40,7 @@
   <img height=150 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oscararaya18&hide=scss,css,html&theme=chartreuse-dark&layout=compact">
 </a>
 </p>
+
+## 💻 Contact Info 💻
+📧 &nbsp; Email me at osaronaragar15@gmail.com.
+🔗 &nbsp; DM me at https://www.linkedin.com/in/oscar-araya-g/.
