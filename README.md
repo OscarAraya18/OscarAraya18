@@ -34,4 +34,4 @@
 ![Jira](https://img.shields.io/badge/Jira-05122A?&style=flat&logo=jira&logoColor=white)&nbsp;
 
 ### Hardware Related:
-![Verilog](https://img.shields.io/badge/Verilog-05122A?&style=flat&logo=verilog&logoColor=white)&nbsp;
+![ARM](https://img.shields.io/badge/ARM%20Assembly-05122A?&style=flat&logo=arm&logoColor=white)&nbsp;
