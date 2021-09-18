@@ -16,4 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket&logoColor=white)&nbsp;
 
-### Frameworks/Libraries/Toolkits:
+### Frameworks:
+![.NET](https://img.shields.io/badge/-.NET Framework-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
+
