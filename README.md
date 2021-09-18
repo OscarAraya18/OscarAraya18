@@ -35,7 +35,7 @@
 
 ## 💻 GitHub Stats 💻
 <p align="justify">
-<a href="https://github.com/estalvgs1999">
+<a href="https://github.com/oscararaya18">
   <img height=150 src = "https://github-readme-stats.vercel.app/api?username=oscararaya18&show_icons=true&theme=chartreuse-dark&line_height=27">
   <img height=150 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oscararaya18&hide=scss,css,html&theme=chartreuse-dark&layout=compact">
 </a>
