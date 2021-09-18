@@ -23,4 +23,4 @@
 ![Spring](https://img.shields.io/badge/Spring-05122A?&style=flat&logo=spring&logoColor=white)&nbsp;
 
 ### Database Related:
-![MicrosoftSQL Server](https://img.shields.io/badge/mysql-05122A?&style=flat&logo=mysql&logoColor=white)&nbsp;
+![MicrosoftSQL Server](https://img.shields.io/badge/MicrosoftSQL-05122A?&style=flat&logo=microsoftsql&logoColor=white)&nbsp;
