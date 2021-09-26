@@ -1,6 +1,6 @@
 ## 💻 About Me 💻
 
-🌐 &nbsp; Visit my website at www.oscararayag.com.\
+🌐 &nbsp; Visit my website at www.oscararayag.com. \
 🧭 &nbsp; Constantly learning new technologies.\
 🎓 &nbsp; Computer Engineering (CE) student at the Costa Rican Institute of Technology (TEC).\
 🗻 &nbsp; Passionate about programming, electronics, and physics.
